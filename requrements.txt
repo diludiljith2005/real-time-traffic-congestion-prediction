@@ -1,6 +1,5 @@
 streamlit
 pandas
-matplotlib.pyplot
 seaborn
 LabelEncoder
 RandomForestRegressor
