@@ -5,3 +5,4 @@ LabelEncoder
 RandomForestRegressor
 numpy 
 scikit-learn
+matplotlib
